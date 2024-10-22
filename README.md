@@ -3,6 +3,7 @@
  ## Task.1
  
  In this task, you perform the initial configuration of WordPress and create a blog post.
+ 
 
  ![Screenshot (52)](https://github.com/user-attachments/assets/77cd1ba6-9a81-4348-8bdd-4979f3d8efff)
 
@@ -14,12 +15,13 @@
  
  ## Task.2
  Create an Amazon S3 bucket and configure it for static website hosting. This makes the bucket accessible on the Internet via a URL.
+ 
  ![Screenshot (53)](https://github.com/user-attachments/assets/8d249384-97f2-470d-8702-629994921a2b)
 
 
  ![Screenshot (50)](https://github.com/user-attachments/assets/4a514700-d39b-4956-bf95-7c40d2346543)
 
- ## task.3
+ ## Task.3
  Use the wp-static utility to generate a static copy of  WordPress website as HTML pages. These pages will contain a copy of the entire website and can be used without the WordPress server.
 
  ![Screenshot (47)](https://github.com/user-attachments/assets/04ebe458-7ad9-4171-9e24-da24fef4a8ad)
