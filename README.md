@@ -14,9 +14,11 @@
 
  ## task.3
  Use the wp-static utility to generate a static copy of  WordPress website as HTML pages. These pages will contain a copy of the entire website and can be used without the WordPress server.
+
+ ![Screenshot (47)](https://github.com/user-attachments/assets/04ebe458-7ad9-4171-9e24-da24fef4a8ad)
+
  ## Task.4
- In this task, Use the AWS Command Line Interface (AWS CLI) to copy the static pages you generated in the previous task to Amazon S3. Then able to access the website even when the WordPress web server is turned 
-  off.  
+ In this task, Use the AWS Command Line Interface (AWS CLI) to copy the static pages you generated in the previous task to Amazon S3. Then able to access the website even when the WordPress web server is turned off.  
   ## Task.5
   Now that is created a static version of  website and have uploaded changes, we may want to simplify this operation in the future. In this task, We create a script to update the static files with any changes from 
    WordPress and upload the changes Amazon S3 to replace running each command manually.
