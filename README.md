@@ -3,6 +3,9 @@
  ## Task.1
  
  In this task, you perform the initial configuration of WordPress and create a blog post.
+
+ ![Screenshot (51)](https://github.com/user-attachments/assets/65f88b46-5459-4a48-8c22-646064bd4761)
+
  
  ## Task.2
  Create an Amazon S3 bucket and configure it for static website hosting. This makes the bucket accessible on the Internet via a URL.
