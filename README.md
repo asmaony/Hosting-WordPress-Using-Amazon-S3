@@ -6,6 +6,9 @@
  
  ## Task.2
  Create an Amazon S3 bucket and configure it for static website hosting. This makes the bucket accessible on the Internet via a URL.
+
+ ![Screenshot (50)](https://github.com/user-attachments/assets/4a514700-d39b-4956-bf95-7c40d2346543)
+
  ## task.3
  Use the wp-static utility to generate a static copy of  WordPress website as HTML pages. These pages will contain a copy of the entire website and can be used without the WordPress server.
  ## Task.4
