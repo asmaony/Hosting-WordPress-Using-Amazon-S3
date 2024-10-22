@@ -4,6 +4,10 @@
  
  In this task, you perform the initial configuration of WordPress and create a blog post.
 
+ ![Screenshot (52)](https://github.com/user-attachments/assets/77cd1ba6-9a81-4348-8bdd-4979f3d8efff)
+
+
+
  
  ![Screenshot (51)](https://github.com/user-attachments/assets/65f88b46-5459-4a48-8c22-646064bd4761)
 
